@@ -1,0 +1,14 @@
+{
+  "devDependencies": {
+    "commitizen": "^4.3.0",
+    "cz-format-extension": "^1.5.1"
+  },
+  "scripts": {
+    "cz": "git-cz"
+  },
+  "config": {
+    "commitizen": {
+      "path": "cz-format-extension"
+    }
+  }
+}

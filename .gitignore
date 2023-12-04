@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+
+# Testing
+coverage/
+newman/
+test-results/
+jmeter-results/
+
+# React build
+build/
+
+# E2E
+allure-results/
+allure-report/
+
+# SonarQube
+.scannerwork/
+
+# NPM Registry Configuration
+.npmrc
+
+# Misc
+**/.DS_Store
+local.log
+newrelic_agent.log
+2021*
+
+.dccache
